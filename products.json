@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "LD01 SINGLE CHAIR",
+        "price": 300,
+        "image": "images/pngwing.com.png"
+    },
+    {
+        "id": 2,
+        "name": "LD02 SINGLE CHAIR",
+        "price": 300,
+        "image": "images/chairone.png"
+    },
+    {
+        "id": 3,
+        "name": "LD03 SINGLE CHAIR",
+        "price": 300,
+        "image": "images/p"
+    },
+    {
+        "id": 4,
+        "name": "LD04 SINGLE CHAIR",
+        "price": 300,
+        "image": "images/pngwing.com(3).png"
+    }, 
+    {
+        "id": 5,
+        "name": "LD05 SINGLE CHAIR",
+        "price": 300,
+        "image": "images/pngwing.com(4).png"
+    },
+    {
+        "id": 6,
+        "name": "LD06 SINGLE CHAIR",
+        "price": 300,
+        "image": "images/chairsix.png"
+    },
+    {
+        "id": 7,
+        "name": "LD07 SINGLE CHAIR",
+        "price": 300,
+        "image": "images/png"
+    },
+    {
+        "id": 8,
+        "name": "LD08 SINGLE CHAIR",
+        "price": 300,
+        "image": "images/pngwingchair.com.png"
+    }
+]
