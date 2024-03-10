@@ -15,6 +15,7 @@ closeCart.addEventListener('click', () => {
     body.classList.toggle('showCart')
 });
 
+// adding items to cart
 const addDataToHTML = () => {
     listProductHTML.innerHTML = '';
     if(listProducts.length > 0){
@@ -58,6 +59,7 @@ const addToCart = (product_id) => {
  addCartToHTML();
 }
 
+// dom manipulation to add html items
 cont addCartToHTML = () => {
      listCartHTML.innerHTML = '';
      let totalQuantity = 0;
@@ -90,7 +92,7 @@ cont addCartToHTML = () => {
     iconCartSpan.innerText = totalQuantity:
 }
 
-
+// adding json
 const initApp = () => {
     // get data from json
     fetch('products.json')
